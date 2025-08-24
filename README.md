@@ -1,8 +1,9 @@
-<!-- Portfolio Style GitHub Profile README --><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sricharandugyala/Sricharan27/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sricharandugyala/Sricharan27/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/sricharandugyala/Sricharan27/output/github-contribution-grid-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<username>/<username>/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<username>/<username>/output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/<username>/<username>/output/snake.svg" />
 </picture>
+
 
 
 
