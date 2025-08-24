@@ -12,6 +12,11 @@
 - ⚡ Love building practical solutions & sharing knowledge  
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sricharandugyala/Sricharan27/refs/heads/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sricharandugyala/Sricharan27/refs/heads/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sricharandugyala/Sricharan27/refs/heads/output/github-snake.svg" />
+</picture>
 
 ## 🛠️ Skills & Tools  
 **Languages:** C, C++, Java, Python  
