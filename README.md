@@ -63,5 +63,5 @@
 ---
 
 ✨ _Building, Learning, and Growing one commit at a time._
-![Snake animation](https://github.com/sricharan27/sricharan27/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sricharandugyala/sricharan27/blob/output/github-contribution-grid-snake.svg)
 
