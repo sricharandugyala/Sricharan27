@@ -16,8 +16,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sricharandugyala/Sricharan27/refs/heads/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/sricharandugyala/Sricharan27/refs/heads/output/github-snake.svg" />
 </picture>
-![Snake animation](https://raw.githubusercontent.com/sricharandugyala/Sricharan27/output/snake.svg)
----
+
 
 ## 🛠️ Skills & Tools  
  
